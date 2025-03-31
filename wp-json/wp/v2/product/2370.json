@@ -3,19 +3,19 @@
   "date": "2024-04-04T09:39:13",
   "date_gmt": "2024-04-04T09:39:13",
   "guid": {
-    "rendered": "https:\/\/khada.vn\/?post_type=product&#038;p=2370"
+    "rendered": "https:\/\/xuongkhacdauhn.com\/?post_type=product&#038;p=2370"
   },
   "modified": "2025-02-18T16:55:33",
   "modified_gmt": "2025-02-18T16:55:33",
   "slug": "bang-decor-han-quoc-sat-tron-kich-thuoc-70x70cm",
   "status": "publish",
   "type": "product",
-  "link": "https:\/\/khada.vn\/san-pham\/bang-decor-han-quoc-sat-tron-kich-thuoc-70x70cm\/",
+  "link": "https:\/\/xuongkhacdauhn.com\/san-pham\/bang-decor-han-quoc-sat-tron-kich-thuoc-70x70cm\/",
   "title": {
     "rendered": "B\u1ea3ng decor h\u00e0n qu\u1ed1c s\u1eaft tr\u00f2n k\u00edch th\u01b0\u1edbc 70x70cm"
   },
   "content": {
-    "rendered": "<p><img decoding=\"async\" class=\"size-full wp-image-2374 aligncenter\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-sat-uon-tron-decor-han-quoc-70x70cm-khada_4.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2373 aligncenter\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-sat-uon-tron-decor-han-quoc-70x70cm-khada_3.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2372 aligncenter\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-sat-uon-tron-decor-han-quoc-70x70cm-khada_2.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2371 aligncenter\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-sat-uon-tron-decor-han-quoc-70x70cm-khada_1.jpg\" alt=\"\" width=\"750\" height=\"750\"><\/p>\n",
+    "rendered": "<p><img decoding=\"async\" class=\"size-full wp-image-2374 aligncenter\" src=\"https:\/\/xuongkhacdauhn.com\/wp-content\/uploads\/2024\/04\/bang-sat-uon-tron-decor-han-quoc-70x70cm-khada_4.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2373 aligncenter\" src=\"https:\/\/xuongkhacdauhn.com\/wp-content\/uploads\/2024\/04\/bang-sat-uon-tron-decor-han-quoc-70x70cm-khada_3.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2372 aligncenter\" src=\"https:\/\/xuongkhacdauhn.com\/wp-content\/uploads\/2024\/04\/bang-sat-uon-tron-decor-han-quoc-70x70cm-khada_2.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2371 aligncenter\" src=\"https:\/\/xuongkhacdauhn.com\/wp-content\/uploads\/2024\/04\/bang-sat-uon-tron-decor-han-quoc-70x70cm-khada_1.jpg\" alt=\"\" width=\"750\" height=\"750\"><\/p>\n",
     "protected": false
   },
   "excerpt": {
@@ -48,7 +48,7 @@
   "_links": {
     "self": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product\/2370",
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product\/2370",
         "targetHints": {
           "allow": [
             "GET"
@@ -58,46 +58,46 @@
     ],
     "collection": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product"
       }
     ],
     "about": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/product"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/types\/product"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=2370"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/comments?post=2370"
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/2371"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media\/2371"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=2370"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media?parent=2370"
       }
     ],
     "wp:term": [
       {
         "taxonomy": "product_brand",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_brand?post=2370"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_brand?post=2370"
       },
       {
         "taxonomy": "product_cat",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat?post=2370"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_cat?post=2370"
       },
       {
         "taxonomy": "product_tag",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_tag?post=2370"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_tag?post=2370"
       }
     ],
     "curies": [

@@ -10,7 +10,7 @@
   "slug": "cart",
   "status": "publish",
   "type": "page",
-  "link": "https:\/\/khada.vn\/cart\/",
+  "link": "https:\/\/xuongkhacdauhn.com\/cart\/",
   "title": {
     "rendered": "Cart"
   },
@@ -52,10 +52,10 @@
     },
     "frontEndScore": false,
     "postName": "cart",
-    "permalinkFormat": "https:\/\/khada.vn\/%pagename%\/",
+    "permalinkFormat": "https:\/\/xuongkhacdauhn.com\/%pagename%\/",
     "showLockModifiedDate": true,
     "assessor": {
-      "focusKeywordLink": "https:\/\/khada.vn\/wp-admin\/edit.php?focus_keyword=%focus_keyword%&post_type=%post_type%",
+      "focusKeywordLink": "https:\/\/xuongkhacdauhn.com\/wp-admin\/edit.php?focus_keyword=%focus_keyword%&post_type=%post_type%",
       "hasTOCPlugin": false,
       "primaryTaxonomy": false,
       "serpData": {
@@ -234,18 +234,18 @@
     "overlayImages": {
       "play": {
         "name": "Bi\u1ec3u t\u01b0\u1ee3ng ph\u00e1t",
-        "url": "https:\/\/khada.vn\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/icon-play.png",
+        "url": "https:\/\/xuongkhacdauhn.com\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/icon-play.png",
         "path": "\/home\/gyoigqhdhosting\/public_html\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/icon-play.png",
         "position": "middle_center"
       },
       "gif": {
         "name": "Bi\u1ec3u t\u01b0\u1ee3ng GIF",
-        "url": "https:\/\/khada.vn\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/icon-gif.png",
+        "url": "https:\/\/xuongkhacdauhn.com\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/icon-gif.png",
         "path": "\/home\/gyoigqhdhosting\/public_html\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/icon-gif.png",
         "position": "middle_center"
       }
     },
-    "defautOgImage": "https:\/\/khada.vn\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/social-placeholder.jpg",
+    "defautOgImage": "https:\/\/xuongkhacdauhn.com\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/social-placeholder.jpg",
     "customPermalinks": true,
     "isUserRegistered": true,
     "autoSuggestKeywords": true,
@@ -268,7 +268,7 @@
     "is_front_page": false,
     "trendsUpgradeLink": "https:\/\/rankmath.com\/pricing\/?utm_source=Plugin&utm_medium=CE%20General%20Tab%20Trends&utm_campaign=WP",
     "trendsUpgradeLabel": "N\u00e2ng c\u1ea5p",
-    "trendsPreviewImage": "https:\/\/khada.vn\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/trends-preview.jpg",
+    "trendsPreviewImage": "https:\/\/xuongkhacdauhn.com\/wp-content\/plugins\/seo-by-rank-math\/assets\/admin\/img\/trends-preview.jpg",
     "currentEditor": false,
     "homepageData": {
       "assessor": {
@@ -328,7 +328,7 @@
   "_links": {
     "self": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/pages\/68",
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/pages\/68",
         "targetHints": {
           "allow": [
             "GET"
@@ -338,35 +338,35 @@
     ],
     "collection": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/pages"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/pages"
       }
     ],
     "about": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/page"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/types\/page"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/users\/1"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/users\/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=68"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/comments?post=68"
       }
     ],
     "version-history": [
       {
         "count": 0,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/pages\/68\/revisions"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/pages\/68\/revisions"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=68"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media?parent=68"
       }
     ],
     "curies": [

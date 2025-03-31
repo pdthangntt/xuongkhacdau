@@ -3,14 +3,14 @@
   "date": "2023-06-20T07:36:30",
   "date_gmt": "2023-06-20T07:36:30",
   "guid": {
-    "rendered": "https:\/\/khada.vn\/?post_type=product&#038;p=947"
+    "rendered": "https:\/\/xuongkhacdauhn.com\/?post_type=product&#038;p=947"
   },
   "modified": "2025-02-12T21:13:48",
   "modified_gmt": "2025-02-12T21:13:48",
   "slug": "in-hoa-don-ban-hang",
   "status": "publish",
   "type": "product",
-  "link": "https:\/\/khada.vn\/san-pham\/in-hoa-don-ban-hang\/",
+  "link": "https:\/\/xuongkhacdauhn.com\/san-pham\/in-hoa-don-ban-hang\/",
   "title": {
     "rendered": "In h\u00f3a \u0111\u01a1n b\u00e1n h\u00e0ng"
   },
@@ -48,7 +48,7 @@
   "_links": {
     "self": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product\/947",
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product\/947",
         "targetHints": {
           "allow": [
             "GET"
@@ -58,46 +58,46 @@
     ],
     "collection": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product"
       }
     ],
     "about": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/product"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/types\/product"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=947"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/comments?post=947"
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/1308"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media\/1308"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=947"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media?parent=947"
       }
     ],
     "wp:term": [
       {
         "taxonomy": "product_brand",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_brand?post=947"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_brand?post=947"
       },
       {
         "taxonomy": "product_cat",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat?post=947"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_cat?post=947"
       },
       {
         "taxonomy": "product_tag",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_tag?post=947"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_tag?post=947"
       }
     ],
     "curies": [

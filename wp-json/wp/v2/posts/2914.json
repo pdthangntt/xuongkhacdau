@@ -3,14 +3,14 @@
   "date": "2024-09-30T05:25:00",
   "date_gmt": "2024-09-30T05:25:00",
   "guid": {
-    "rendered": "https:\/\/khada.vn\/?p=2914"
+    "rendered": "https:\/\/xuongkhacdauhn.com\/?p=2914"
   },
   "modified": "2024-11-26T05:41:25",
   "modified_gmt": "2024-11-26T05:41:25",
   "slug": "con-dau-dien-tu-theo-luat-doanh-nghiep-2023",
   "status": "publish",
   "type": "post",
-  "link": "https:\/\/khada.vn\/con-dau-dien-tu-theo-luat-doanh-nghiep-2023\/",
+  "link": "https:\/\/xuongkhacdauhn.com\/con-dau-dien-tu-theo-luat-doanh-nghiep-2023\/",
   "title": {
     "rendered": "Con D\u1ea5u \u0110i\u1ec7n T\u1eed ? Theo Lu\u1eadt Doanh Nghi\u1ec7p 2023"
   },
@@ -49,7 +49,7 @@
   "_links": {
     "self": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/posts\/2914",
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/posts\/2914",
         "targetHints": {
           "allow": [
             "GET"
@@ -59,59 +59,59 @@
     ],
     "collection": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/posts"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/posts"
       }
     ],
     "about": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/post"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/types\/post"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/users\/4"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/users\/4"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=2914"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/comments?post=2914"
       }
     ],
     "version-history": [
       {
         "count": 4,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/posts\/2914\/revisions"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/posts\/2914\/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 2918,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/posts\/2914\/revisions\/2918"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/posts\/2914\/revisions\/2918"
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/2919"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media\/2919"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=2914"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media?parent=2914"
       }
     ],
     "wp:term": [
       {
         "taxonomy": "category",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/categories?post=2914"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/categories?post=2914"
       },
       {
         "taxonomy": "post_tag",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/tags?post=2914"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/tags?post=2914"
       }
     ],
     "curies": [

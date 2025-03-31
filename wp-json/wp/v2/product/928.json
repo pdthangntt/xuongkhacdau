@@ -3,14 +3,14 @@
   "date": "2023-06-20T07:29:32",
   "date_gmt": "2023-06-20T07:29:32",
   "guid": {
-    "rendered": "https:\/\/khada.vn\/?post_type=product&#038;p=928"
+    "rendered": "https:\/\/xuongkhacdauhn.com\/?post_type=product&#038;p=928"
   },
   "modified": "2025-02-12T21:08:20",
   "modified_gmt": "2025-02-12T21:08:20",
   "slug": "bang-mica-so-nha-cong-ty",
   "status": "publish",
   "type": "product",
-  "link": "https:\/\/khada.vn\/san-pham\/bang-mica-so-nha-cong-ty\/",
+  "link": "https:\/\/xuongkhacdauhn.com\/san-pham\/bang-mica-so-nha-cong-ty\/",
   "title": {
     "rendered": "B\u1ea3ng mica s\u1ed1 nh\u00e0, c\u00f4ng ty"
   },
@@ -48,7 +48,7 @@
   "_links": {
     "self": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product\/928",
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product\/928",
         "targetHints": {
           "allow": [
             "GET"
@@ -58,46 +58,46 @@
     ],
     "collection": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product"
       }
     ],
     "about": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/product"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/types\/product"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=928"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/comments?post=928"
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/1992"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media\/1992"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=928"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media?parent=928"
       }
     ],
     "wp:term": [
       {
         "taxonomy": "product_brand",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_brand?post=928"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_brand?post=928"
       },
       {
         "taxonomy": "product_cat",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat?post=928"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_cat?post=928"
       },
       {
         "taxonomy": "product_tag",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_tag?post=928"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_tag?post=928"
       }
     ],
     "curies": [

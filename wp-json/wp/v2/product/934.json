@@ -3,14 +3,14 @@
   "date": "2023-06-20T07:34:29",
   "date_gmt": "2023-06-20T07:34:29",
   "guid": {
-    "rendered": "https:\/\/khada.vn\/?post_type=product&#038;p=934"
+    "rendered": "https:\/\/xuongkhacdauhn.com\/?post_type=product&#038;p=934"
   },
   "modified": "2025-02-18T17:00:48",
   "modified_gmt": "2025-02-18T17:00:48",
   "slug": "in-card-visit-500-cai",
   "status": "publish",
   "type": "product",
-  "link": "https:\/\/khada.vn\/san-pham\/in-card-visit-500-cai\/",
+  "link": "https:\/\/xuongkhacdauhn.com\/san-pham\/in-card-visit-500-cai\/",
   "title": {
     "rendered": "In card visit 500 c\u00e1i"
   },
@@ -48,7 +48,7 @@
   "_links": {
     "self": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product\/934",
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product\/934",
         "targetHints": {
           "allow": [
             "GET"
@@ -58,46 +58,46 @@
     ],
     "collection": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product"
       }
     ],
     "about": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/product"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/types\/product"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=934"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/comments?post=934"
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/1997"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media\/1997"
       }
     ],
     "wp:attachment": [
       {
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=934"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/media?parent=934"
       }
     ],
     "wp:term": [
       {
         "taxonomy": "product_brand",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_brand?post=934"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_brand?post=934"
       },
       {
         "taxonomy": "product_cat",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat?post=934"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_cat?post=934"
       },
       {
         "taxonomy": "product_tag",
         "embeddable": true,
-        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_tag?post=934"
+        "href": "https:\/\/xuongkhacdauhn.com\/wp-json\/wp\/v2\/product_tag?post=934"
       }
     ],
     "curies": [
