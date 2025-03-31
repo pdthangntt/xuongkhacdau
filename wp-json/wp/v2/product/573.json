@@ -1,0 +1,111 @@
+{
+  "id": 573,
+  "date": "2023-06-17T10:17:03",
+  "date_gmt": "2023-06-17T10:17:03",
+  "guid": {
+    "rendered": "https:\/\/khada.vn\/?post_type=product&#038;p=573"
+  },
+  "modified": "2025-02-12T21:13:09",
+  "modified_gmt": "2025-02-12T21:13:09",
+  "slug": "con-dau-tron-theo-yeu-cau",
+  "status": "publish",
+  "type": "product",
+  "link": "https:\/\/khada.vn\/san-pham\/con-dau-tron-theo-yeu-cau\/",
+  "title": {
+    "rendered": "Con d\u1ea5u tr\u00f2n theo y\u00eau c\u1ea7u"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "featured_media": 1931,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_brand": [],
+  "product_cat": [
+    90
+  ],
+  "product_tag": [],
+  "class_list": {
+    "0": "post-573",
+    "1": "product",
+    "2": "type-product",
+    "3": "status-publish",
+    "4": "has-post-thumbnail",
+    "6": "product_cat-con-dau",
+    "8": "first",
+    "9": "instock",
+    "10": "shipping-taxable",
+    "11": "purchasable",
+    "12": "product-type-simple"
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product\/573",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/product"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=573"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/1931"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=573"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_brand",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_brand?post=573"
+      },
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat?post=573"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_tag?post=573"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

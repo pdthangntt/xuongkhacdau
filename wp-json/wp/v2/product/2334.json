@@ -1,0 +1,112 @@
+{
+  "id": 2334,
+  "date": "2024-04-04T05:30:37",
+  "date_gmt": "2024-04-04T05:30:37",
+  "guid": {
+    "rendered": "https:\/\/khada.vn\/?post_type=product&#038;p=2334"
+  },
+  "modified": "2025-02-18T16:55:48",
+  "modified_gmt": "2025-02-18T16:55:48",
+  "slug": "bang-gap-chu-a-decor-han-quoc-40x80cm",
+  "status": "publish",
+  "type": "product",
+  "link": "https:\/\/khada.vn\/san-pham\/bang-gap-chu-a-decor-han-quoc-40x80cm\/",
+  "title": {
+    "rendered": "B\u1ea3ng g\u1eadp ch\u1eef A decor h\u00e0n qu\u1ed1c 40x80cm"
+  },
+  "content": {
+    "rendered": "<p>&nbsp;<\/p>\n<figure id=\"attachment_2341\" aria-describedby=\"caption-attachment-2341\" style=\"width: 750px\" class=\"wp-caption aligncenter\"><img decoding=\"async\" class=\"size-full wp-image-2341\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-gap-chu-a-decor-han-quoc-40X80CM_6.jpg\" alt=\"b\u1ea3ng decor h\u00e0n qu\u1ed1c gi\u00e1 r\u1ebb | khada\" width=\"750\" height=\"750\" \/><figcaption id=\"caption-attachment-2341\" class=\"wp-caption-text\">b\u1ea3ng decor h\u00e0n qu\u1ed1c gi\u00e1 r\u1ebb | khada<\/figcaption><\/figure>\n<p><img decoding=\"async\" class=\"alignnone size-full wp-image-2340 aligncenter\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-gap-chu-a-decor-han-quoc-40X80CM_5.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2339 aligncenter\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-gap-chu-a-decor-han-quoc-40X80CM_4.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2338 aligncenter\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-gap-chu-a-decor-han-quoc-40X80CM_3.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2337 aligncenter\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-gap-chu-a-decor-han-quoc-40X80CM_2.jpg\" alt=\"\" width=\"750\" height=\"750\"><img decoding=\"async\" class=\"size-full wp-image-2336 aligncenter\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-gap-chu-a-decor-han-quoc-40X80CM_1.jpg\" alt=\"\" width=\"750\" height=\"750\"><\/p>\n<p>&nbsp;<\/p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>* Ch\u1ea5t li\u1ec7u s\u1eaft<br \/>\n* S\u01a1n m\u00e0u theo y\u00eau c\u1ea7u<br \/>\n* N\u1ed9i dung in theo y\u00eau c\u1ea7u<br \/>\nB\u1ec1n b\u1ec9 kh\u00f4ng ng\u1ea1i m\u01b0a n\u1eafng.<br \/>\n\u2013 S\u1ea3n ph\u1ea9m decor xu h\u01b0\u1edbng hi\u1ec7n \u0111\u1ea1i, sang tr\u1ecdng d\u00e0nh cho c\u00e1c b\u1ea1n y\u00eau th\u00edch decor<br \/>\n\u2013 Ph\u00f9 h\u1ee3p : Ti\u1ec7m Coffee, Nail, Spa, Wedding, Ph\u00f2ng ng\u1ee7, Nh\u00e0 H\u00e0ng, Qu\u00e1n Bar, Pub\u2026 V\u00e0 h\u01a1n th\u1ebf n\u1eefa.<\/p>\n",
+    "protected": false
+  },
+  "featured_media": 2335,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_brand": [],
+  "product_cat": [
+    93
+  ],
+  "product_tag": [],
+  "class_list": {
+    "0": "post-2334",
+    "1": "product",
+    "2": "type-product",
+    "3": "status-publish",
+    "4": "has-post-thumbnail",
+    "6": "product_cat-in-an",
+    "8": "first",
+    "9": "instock",
+    "10": "sale",
+    "11": "shipping-taxable",
+    "12": "purchasable",
+    "13": "product-type-simple"
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product\/2334",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/product"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=2334"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/2335"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=2334"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_brand",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_brand?post=2334"
+      },
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat?post=2334"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_tag?post=2334"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

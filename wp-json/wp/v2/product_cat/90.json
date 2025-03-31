@@ -1,0 +1,45 @@
+{
+  "id": 90,
+  "count": 23,
+  "description": "",
+  "link": "https:\/\/khada.vn\/danh-muc-san-pham\/con-dau\/",
+  "name": "CON D\u1ea4U",
+  "slug": "con-dau",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat\/90",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/taxonomies\/product_cat"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product?product_cat=90"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

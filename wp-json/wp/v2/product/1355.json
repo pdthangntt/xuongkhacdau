@@ -1,0 +1,111 @@
+{
+  "id": 1355,
+  "date": "2023-06-30T03:34:14",
+  "date_gmt": "2023-06-30T03:34:14",
+  "guid": {
+    "rendered": "https:\/\/khada.vn\/?post_type=product&#038;p=1355"
+  },
+  "modified": "2025-02-18T16:56:37",
+  "modified_gmt": "2025-02-18T16:56:37",
+  "slug": "bang-ten-deo-ao-in-ten-san",
+  "status": "publish",
+  "type": "product",
+  "link": "https:\/\/khada.vn\/san-pham\/bang-ten-deo-ao-in-ten-san\/",
+  "title": {
+    "rendered": "B\u1ea3ng t\u00ean \u0111eo \u00e1o in t\u00ean s\u1eb5n"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "featured_media": 2008,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_brand": [],
+  "product_cat": [
+    93
+  ],
+  "product_tag": [],
+  "class_list": {
+    "0": "post-1355",
+    "1": "product",
+    "2": "type-product",
+    "3": "status-publish",
+    "4": "has-post-thumbnail",
+    "6": "product_cat-in-an",
+    "8": "first",
+    "9": "instock",
+    "10": "shipping-taxable",
+    "11": "purchasable",
+    "12": "product-type-variable"
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product\/1355",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/product"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=1355"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/2008"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=1355"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_brand",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_brand?post=1355"
+      },
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat?post=1355"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_tag?post=1355"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

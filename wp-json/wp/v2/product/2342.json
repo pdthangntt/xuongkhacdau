@@ -1,0 +1,111 @@
+{
+  "id": 2342,
+  "date": "2024-04-04T07:43:22",
+  "date_gmt": "2024-04-04T07:43:22",
+  "guid": {
+    "rendered": "https:\/\/khada.vn\/?post_type=product&#038;p=2342"
+  },
+  "modified": "2025-02-18T16:56:19",
+  "modified_gmt": "2025-02-18T16:56:19",
+  "slug": "bang-sat-decor-han-quoc",
+  "status": "publish",
+  "type": "product",
+  "link": "https:\/\/khada.vn\/san-pham\/bang-sat-decor-han-quoc\/",
+  "title": {
+    "rendered": "B\u1ea3ng s\u1eaft decor h\u00e0n qu\u1ed1c"
+  },
+  "content": {
+    "rendered": "<figure id=\"attachment_2347\" aria-describedby=\"caption-attachment-2347\" style=\"width: 750px\" class=\"wp-caption aligncenter\"><img decoding=\"async\" class=\"size-full wp-image-2347\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-sat-decor-style-han-quoc-khada_3.jpg\" alt=\"B\u1ea3ng s\u1eaft decor style h\u00e0n qu\u1ed1c qu\u00e1n c\u00e0 ph\u00ea | Khada\" width=\"750\" height=\"750\" \/><figcaption id=\"caption-attachment-2347\" class=\"wp-caption-text\">B\u1ea3ng s\u1eaft decor style h\u00e0n qu\u1ed1c qu\u00e1n c\u00e0 ph\u00ea | Khada<\/figcaption><\/figure>\n<figure id=\"attachment_2346\" aria-describedby=\"caption-attachment-2346\" style=\"width: 750px\" class=\"wp-caption aligncenter\"><img decoding=\"async\" class=\"size-full wp-image-2346\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-sat-decor-style-han-quoc-khada_2.jpg\" alt=\"B\u1ea3ng s\u1eaft decor c\u01b0 x\u00e1 h\u00e0n qu\u1ed1c | Khada\" width=\"750\" height=\"750\" \/><figcaption id=\"caption-attachment-2346\" class=\"wp-caption-text\">B\u1ea3ng s\u1eaft decor c\u01b0 x\u00e1 h\u00e0n qu\u1ed1c | Khada<\/figcaption><\/figure>\n<figure id=\"attachment_2345\" aria-describedby=\"caption-attachment-2345\" style=\"width: 750px\" class=\"wp-caption aligncenter\"><img decoding=\"async\" class=\"size-full wp-image-2345\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-sat-decor-style-han-quoc-khada_1.jpg\" alt=\"B\u1ea3ng s\u1eaft decor style h\u00e0n qu\u1ed1c qu\u00e1n c\u00e0 ph\u00ea | Khada\" width=\"750\" height=\"750\" \/><figcaption id=\"caption-attachment-2345\" class=\"wp-caption-text\">B\u1ea3ng s\u1eaft decor style h\u00e0n qu\u1ed1c qu\u00e1n c\u00e0 ph\u00ea | Khada<\/figcaption><\/figure>\n<figure id=\"attachment_2343\" aria-describedby=\"caption-attachment-2343\" style=\"width: 750px\" class=\"wp-caption aligncenter\"><img decoding=\"async\" class=\"size-full wp-image-2343\" src=\"https:\/\/khada.vn\/wp-content\/uploads\/2024\/04\/bang-sat-decor-style-han-quoc-khada_4.jpg\" alt=\"B\u1ea3ng s\u1eaft decor style h\u00e0n qu\u1ed1c | Khada\" width=\"750\" height=\"750\" \/><figcaption id=\"caption-attachment-2343\" class=\"wp-caption-text\">B\u1ea3ng s\u1eaft decor style h\u00e0n qu\u1ed1c | Khada<\/figcaption><\/figure>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<div dir=\"auto\">* Ch\u1ea5t li\u1ec7u s\u1eaft<\/div>\n<div dir=\"auto\">* S\u01a1n m\u00e0u theo y\u00eau c\u1ea7u<\/div>\n<div dir=\"auto\">* N\u1ed9i dung in theo y\u00eau c\u1ea7u<\/div>\n<div dir=\"auto\">B\u1ec1n b\u1ec9 kh\u00f4ng ng\u1ea1i m\u01b0a n\u1eafng.<\/div>\n<div dir=\"auto\">&#8211; S\u1ea3n ph\u1ea9m decor xu h\u01b0\u1edbng hi\u1ec7n \u0111\u1ea1i, sang tr\u1ecdng d\u00e0nh cho c\u00e1c b\u1ea1n y\u00eau th\u00edch decor<\/div>\n<div dir=\"auto\">&#8211; Ph\u00f9 h\u1ee3p : Ti\u1ec7m Coffee, Nail, Spa, Wedding, Ph\u00f2ng ng\u1ee7, Nh\u00e0 H\u00e0ng, Qu\u00e1n Bar, Pub\u2026 V\u00e0 h\u01a1n th\u1ebf n\u1eefa.<\/div>\n",
+    "protected": false
+  },
+  "featured_media": 2343,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_brand": [],
+  "product_cat": [
+    93
+  ],
+  "product_tag": [],
+  "class_list": {
+    "0": "post-2342",
+    "1": "product",
+    "2": "type-product",
+    "3": "status-publish",
+    "4": "has-post-thumbnail",
+    "6": "product_cat-in-an",
+    "8": "first",
+    "9": "instock",
+    "10": "shipping-taxable",
+    "11": "purchasable",
+    "12": "product-type-simple"
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product\/2342",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/product"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=2342"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/2343"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=2342"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_brand",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_brand?post=2342"
+      },
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat?post=2342"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_tag?post=2342"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

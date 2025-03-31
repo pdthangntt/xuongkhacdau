@@ -1,0 +1,111 @@
+{
+  "id": 934,
+  "date": "2023-06-20T07:34:29",
+  "date_gmt": "2023-06-20T07:34:29",
+  "guid": {
+    "rendered": "https:\/\/khada.vn\/?post_type=product&#038;p=934"
+  },
+  "modified": "2025-02-18T17:00:48",
+  "modified_gmt": "2025-02-18T17:00:48",
+  "slug": "in-card-visit-500-cai",
+  "status": "publish",
+  "type": "product",
+  "link": "https:\/\/khada.vn\/san-pham\/in-card-visit-500-cai\/",
+  "title": {
+    "rendered": "In card visit 500 c\u00e1i"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "featured_media": 1997,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_brand": [],
+  "product_cat": [
+    93
+  ],
+  "product_tag": [],
+  "class_list": {
+    "0": "post-934",
+    "1": "product",
+    "2": "type-product",
+    "3": "status-publish",
+    "4": "has-post-thumbnail",
+    "6": "product_cat-in-an",
+    "8": "first",
+    "9": "instock",
+    "10": "shipping-taxable",
+    "11": "purchasable",
+    "12": "product-type-simple"
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product\/934",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product"
+      }
+    ],
+    "about": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/types\/product"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/comments?post=934"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media\/1997"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/media?parent=934"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_brand",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_brand?post=934"
+      },
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_cat?post=934"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https:\/\/khada.vn\/wp-json\/wp\/v2\/product_tag?post=934"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
